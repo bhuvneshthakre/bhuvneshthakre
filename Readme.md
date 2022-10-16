@@ -1,7 +1,7 @@
 Hi 👋 My name is bhuvnesh thakre
 ================================
 
-designer & web developer
+
 ------------------------
 
 started my coding in the pandemic and learning new skills and tools to develop my skills and got passionate about it
