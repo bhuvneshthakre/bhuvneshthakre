@@ -1,11 +1,9 @@
 Hi 👋 My name is bhuvnesh thakre
-devops 
 ================================
 
 
 ------------------------
 
-started my coding in the pandemic and learning new skills and tools to develop my skills and got passionate about it
 
 * 🌍  I'm based in india
 * ✉️  You can contact me at [7028772473bn@gmail.com](mailto:7028772473bn@gmail.com)
