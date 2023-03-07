@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋<br>I am Bhuvnesh, a devops Engineer from 🇮🇳   passionate about developing production-ready applications  onsite as well as remote working experience. 🎯<br><br>I mostly work with Python, CI&CD tools , IAC and Cloud based technologies. 🚀
+Hi there 👋<br>I am Bhuvnesh, a devops Engineer from 🇮🇳dia   passionate about developing production-ready applications  onsite as well as remote working experience. 🎯<br><br>I mostly work with Python, CI&CD tools , IAC and Cloud based technologies. 🚀
 
 
 ## 🌐 Socials:
