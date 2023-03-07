@@ -19,7 +19,7 @@ Hi there 👋<br>I am Bhuvnesh, a devops Engineer from 🇮🇳dia   passionate 
 [![](https://visitcount.itsvg.in/api?id=bhuvneshthakre&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffee) 
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/7028772473f/Buy me a coffee) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
