@@ -1,143 +1,29 @@
-[![MasterHead](https://static.vecteezy.com/system/resources/previews/000/693/934/original/dark-blue-technology-and-high-tech-abstract-background-vector.jpg)](https://ritesh.cloud)
 
-<h1 align="center">Hi , I'm Ritesh Yadav <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi 👋, I'm Bhuvnesh thakre</h1>
+<h3 align="center">A Devops Engineer from India passionate about developing production-ready applications onsite as well as remote working experience. 🎯 I mostly work with Python, CI&CD tools , IAC and Cloud based technologies. 🚀</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhuvneshthakre&label=Profile%20views&color=0e75b6&style=flat" alt="bhuvneshthakre" /> </p>
 
-I am [Ritesh](https://ritesh.cloud), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong intrest in DevOps⚙️ and Natural Language Processing🤖.
+- 📝 I regularly write articles on [https://bhuvneshthakre.hashnode.dev/](https://bhuvneshthakre.hashnode.dev/)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DARK-art108&theme=algolia" alt="DARK-art108" /></p>
+- 📫 How to reach me **Bhuvneshthakre2001@gmail.com**
 
-I ❤️ to work with Cloud-Native technologies and Golang ( Go ). I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana,Kibana and Logstash.
+- 📄 Know about my experiences [https://drive.google.com/file/d/16npp6-K5puw6ulLB2xh8DRdIePRGOWJ3/view?usp=drive_link](https://drive.google.com/file/d/16npp6-K5puw6ulLB2xh8DRdIePRGOWJ3/view?usp=drive_link)
 
-I am currently working as a Data Scientist @[Ineuron.ai](https://ineuron.ai/). I am also a Kaggle Notebook Master and working in a domain of Data Science and Cloud from past 2 years. I have also contributed to some of the big projects like **@meshery** , **@Knative** , **@Porter**, **@Tensorflow**, **@Thanos**, etc.
-
-Along with my full-time job, I also work in maintaining and building open source organization like @𝐏𝐲𝐃𝐚𝐭𝐚 𝐆𝐮𝐧𝐚, @𝐏𝐢𝐞&𝐚𝐢 𝐆𝐮𝐧𝐚, @𝐊𝐚𝐠𝐠𝐥𝐞 𝐃𝐚𝐲𝐬 𝐌𝐞𝐞𝐭𝐮𝐩 𝐃𝐞𝐥𝐡𝐢 𝐍𝐂𝐑 and Participating in Kaggle Competetions, Hackathons and Conferences.
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DARK-art108&label=Profile%20views&color=0e75b6&style=plastic" alt="DARK-art108" /> </p>
-
-<img align='right' src="https://i.pinimg.com/originals/50/44/30/50443067a22e6dd1ecc2d2e394d6e634.gif" width="300">
-
-## :zap: Skills
-
-<p float="left">
-  <a href="https://golang.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="90" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="80" /> 
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
-  </a>
-  <a href="https://docs.gitlab.com/ee/ci/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="65" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
-  </a>
-  <a href="https://helm.sh/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
-  </a>
-   <a href="https://www.w3.org/wiki/The_web_standards_model_-_HTML_CSS_and_JavaScript" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
-  </a>
-  </a>
-    <a href="https://www.jenkins.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/ll.png" height="90" />
-  </a>
-  <a href="www.tensorflow.org" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/tf.png" height="70" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/pyt2.png" height="70" />
-  </a>
-  <a href="https://www.kubeflow.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/ItsRitesh/master/assets/kf.png" height="70" />
-  </a>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhuvneshthakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhuvneshthakre" height="30" width="40" /></a>
+<a href="https://hashnode.com/bhuvneshthakre" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="bhuvneshthakre" height="30" width="40" /></a>
 </p>
 
-### Monitoring
-  
- <p float="left">
-  <a href="https://grafana.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  </a>
-  <a href="https://prometheus.io/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="65" />
-  </a>
-</p>
- 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-### Databases
-  
- <p float="left">
-  <a href="https://www.postgresql.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/postgresql.gif" height="90" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.timescale.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/tsdb.gif" width="120" />
-  </a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/mongo.gif" height="80" />
-  </a>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhuvneshthakre&show_icons=true&locale=en&layout=compact" alt="bhuvneshthakre" /></p>
 
-### Cloud
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bhuvneshthakre&show_icons=true&locale=en" alt="bhuvneshthakre" /></p>
 
-  <a href="https://aws.amazon.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </a>
-
-  
-  ## 📊 Github Stats (Expand to View) 
-  
-  <details>
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api?username=DARK-art108&show_icons=true&theme=radical" alt="DARK-art108" />
-
-</details>
-
-  <details>
-  <summary><b>📈 My Top Languages</b></summary>
-
-<p align="center"> <img src="https://github-stats-readme.dark-art108.vercel.app/api/top-langs/?username=DARK-art108&layout=compact" alt="DARK-art108"/>
-
-</details>
-
-<!-- ## 📊 My Kaggle Stats 
-
-![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/competition)
-![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/dataset)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/notebook)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/ritesh2000/discussion) -->
-
-## My Certifications 🏆
-
- <p float="left">
-  <a href="https://www.credly.com/badges/d350d694-e003-41e1-b66a-ebf61861044c/public_url" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/cka_from_cncfsite__281_29.png" height="120" />&nbsp;&nbsp;
-  </a>
-  <a href="https://www.credential.net/eb0860f4-f20d-4b14-98cd-5635efbf2304" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DARK-art108/DARK-art108/master/assets/6708850e-76a3-4aa7-8220-6edcc9d7874f.png" width="120" />
-  </a>&nbsp;&nbsp;
-</p>
-
-
-
-  
-## 🎧 Spotify Playing 
-  [<img src="https://spotify-readme.dark-art108.vercel.app/api/spotify-playing" alt=" Spotify Playing" width="450" />](https://open.spotify.com/user/316jsag3fisl42rcnnssu7jersee)
-  
-  
-## 📫 How to reach me? 
-
-  ⦿ Visit my [Website](https://ritesh.cloud) 🌐 <br>
-  ⦿ Follow me on [Kaggle](https://www.kaggle.com/ritesh2000)🌐 <br>
-  ⦿ Follow me on [Dribbble](https://dribbble.com/ritesh-yadav)🎨 <br>
-  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/ritesh-yadav2011/) 👨🏻‍💻 <br>
-  ⦿ Follow me on [Twitter](https://twitter.com/RiteshYadav_1) 🐦 <br>
-  ⦿ Shoot Me an [Email](mailto:daydreamingguy941@gmail.com) 💌 <br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhuvneshthakre&" alt="bhuvneshthakre" /></p>
 
 
 
